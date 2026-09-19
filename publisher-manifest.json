@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "b320fb7bce8dcd445bf226ce",
+  "owner": "kcmsskxse",
+  "repo": "page-df8aec0231230c12c676df57",
+  "title": "免费clash订阅",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "df8aec0231230c12c676df57",
+      "a": "白嫖(CCCAT)",
+      "b": "免费clash订阅",
+      "entity": "白嫖(CCCAT)",
+      "brand": "免费clash订阅",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "41e2b24292aaf9757ac70ba839d5d6a730de693755b72bfe7b43e80bb2d14ed8",
+      "content": {
+        "primary_entity": "白嫖(CCCAT)",
+        "keyword1": "白嫖(CCCAT)",
+        "keyword2": "免费clash订阅",
+        "content": {
+          "AI_CLIENTS_INTRO": "按你的设备类型挑选客户端，安装后导入订阅链接就能开始使用。",
+          "AI_CLIENTS_TITLE": "设备与客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐和设备客户端，导入订阅就能开始使用。",
+          "AI_CLOSING_TITLE": "开始你的加速体验",
+          "AI_DESCRIPTION": "，面向需要稳定海外加速的用户，提供基础版、旗舰版与团队版三档套餐。基础版每月15元含100GB流量、支持3台设备；旗舰版每月35元含300GB流量、支持5台设备并配置IPLC专线；团队版每月85元含1000GB流量、支持20台设备与VIP专属节点。按年付可分别低至150元、350元和850元，设备数量与流量需求决定档位选择。",
+          "AI_FEATURES_INTRO": "三档套餐在流量、设备数与线路等级上拉开差距，按实际用量选择更省心。",
+          "AI_FEATURES_TITLE": "套餐能力速览",
+          "AI_FEATURE_TEXT_1": "基础版100GB/月、3台设备，适合个人日常浏览与轻量使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版300GB/月、5台设备，含IPLC专线，兼顾流媒体与游戏加速。",
+          "AI_FEATURE_TEXT_3": "团队版1000GB/月、20台设备，VIP高带宽节点与企业定制路由。",
+          "AI_FEATURE_TITLE_1": "按流量档次",
+          "AI_FEATURE_TITLE_2": "按设备数量",
+          "AI_FEATURE_TITLE_3": "按线路等级",
+          "AI_GUIDE_INTRO": "从选套餐到导入订阅，三步完成配置。",
+          "AI_GUIDE_TITLE": "订阅配置三步走",
+          "AI_HERO_INTRO": "白嫖(CCCAT)提供海外加速服务，套餐覆盖基础版、旗舰版与团队版，按流量、设备数与线路等级区分。选好档位后，根据设备选择对应客户端，导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "海外加速套餐与客户端配置",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "按年付费更划算",
+          "AI_HIGHLIGHT_3": "多种客户端适配导入",
+          "AI_PLANS_INTRO": "基础版15元/月、旗舰版35元/月、团队版85元/月，按年付分别150元、350元和850元，按用量与设备数对号入座。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量和同时在线设备数量，在基础版、旗舰版与团队版之间确定档位。",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的设备类型与客户端要求，确认自己的系统可以正常配置。",
+          "AI_STEP_TEXT_3": "参照所选客户端的使用文档，导入订阅链接并完成基础设置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "确认设备适配",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "白嫖(CCCAT)加速套餐",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，旗舰版 5 台，团队版 20 台。超出限制时新设备无法连接，可升级套餐或断开其他设备。",
+          "AI_FAQ_ANSWER_2": "单月流量用尽后速度会受限，可等待下月重置或升级到更高流量套餐。年付套餐每月流量额度与月付一致，按年结算更划算。",
+          "AI_FAQ_ANSWER_3": "基础版适用于日常网页浏览与基础流媒体；旗舰版带 IPLC 专线，更适合游戏加速与高码率视频；团队版提供 VIP 高带宽节点与企业定制路由。",
+          "AI_FAQ_ANSWER_4": "订阅地址导入客户端后会自动拉取节点列表。不同客户端操作略有差异，可参照所用客户端的订阅导入文档完成配置。",
+          "AI_FAQ_ANSWER_5": "月付适合短期灵活使用，年付折算每月更低。旗舰版年付 ¥350 比月付累计节省 ¥70；基础版年付 ¥150 比月付累计节省 ¥30。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "一个账号可以同时连接几台设备？",
+          "AI_FAQ_QUESTION_2": "套餐流量用完后会怎样？",
+          "AI_FAQ_QUESTION_3": "不同套餐适合哪些使用场景？",
+          "AI_FAQ_QUESTION_4": "订阅配置是否复杂？",
+          "AI_FAQ_QUESTION_5": "如何选择月付还是年付？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "0b86b0646b6cdfe39968e6805ad180980c2f3e7558f821e718d26873f44e8aee",
+    "sitemap.xml": "718e9f0902a9e3b38088a4fa09822da67f9dee6737ca69ec77cdac42af69f11e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "d324cf11817708d5f77f711dc47f180508d3b35a51b102b3abe053974c42fad4"
+}
